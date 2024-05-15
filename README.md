@@ -2,4 +2,4 @@ Trang web làm đồ án môn công nghệ web
 Gồm các thành viên:
     - Nguyễn Văn Duy
     - Hồ Công Thành
-
+    - He so lo
